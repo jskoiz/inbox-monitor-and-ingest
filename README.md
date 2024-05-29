@@ -1,21 +1,8 @@
-# Inbox Excel Converter and Web Interface
+# Spreadsheet Email Handler to MongoDB
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-The Inbox Excel Converter and Web Interface is a utility designed to monitor an inbox for new Excel files, automatically convert them to CSV format, transfer them into a MongoDB database, and serve them to end users through an easy-to-read web interface.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
-
-## Introduction
-
-The utility aims to simplify the process of handling Excel files received in an inbox. It automates the conversion of Excel files to CSV format, allowing for easier data processing. The converted CSV files are then stored in a MongoDB database, providing a centralized and structured data storage solution. The web interface allows end users to access and visualize the converted data conveniently.
+Utility to monitor an inbox for new Excel files, automatically convert them to CSV format, transfer them into a MongoDB database, and serve them to end users through an easy-to-read web interface.
 
 ## Features
 
@@ -24,14 +11,7 @@ The utility aims to simplify the process of handling Excel files received in an 
 - Storage of converted CSV files in a MongoDB database
 - Web interface for end users to access and visualize the converted data
 
-## Installation
-
-TBD
-## Usage
-
-TBD
-## Configuration
-
+## Setup
 Before running the application, make sure to set up the following environment variables:
 
 - `EMAIL_USER`: Your email address or username for the monitored inbox.
