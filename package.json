@@ -59,7 +59,7 @@
     "on-exit-leak-free": "^0.2.0",
     "nodemailer": "^6.9.1",
     "pako": "^1.0.11",
-    "parseley": "^0.11.0",
+    "parseley": "^0.12.1",
     "pino": "^7.5.1",
     "once": "^1.4.0",
     "pino-abstract-transport": "^0.5.0",
