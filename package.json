@@ -86,7 +86,7 @@
     "stream-shift": "^1.0.1",
     "string_decoder": "^1.3.0",
     "supports-color": "^5.5.0",
-    "thread-stream": "^0.13.0",
+    "thread-stream": "^0.15.2",
     "uc.micro": "^1.0.6",
     "util-deprecate": "^1.0.2",
     "xlsx-populate": "^1.21.0",
